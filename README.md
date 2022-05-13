@@ -1,2 +1,0 @@
-# .github
-Organisation's description
