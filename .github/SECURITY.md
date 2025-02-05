@@ -4,7 +4,7 @@
 
 ## Supported Versions
 
-We are committed to support the latest stable version, as well as the latest beta version. You can find those current versions on the [releases page](/../../releases). Anyway, if you discover a security vulnerability in a version that can reasonably be considered in active use, you can still report it as we are committed to provide best-effort support for those versions.
+We are committed to support the latest release, as well as the pre-release. You can find those current versions on the [releases page](/../../releases). Anyway, if you discover a security vulnerability in a version that can reasonably be considered in active use, you can still report it as we are committed to provide best-effort support for those versions.
 
 ## Reporting a Vulnerability
 
