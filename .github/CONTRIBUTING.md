@@ -13,23 +13,23 @@ If you believe you have found a security issue, please report it to us as soon a
 
 ## Asking questions, proposing ideas and sharing your experience
 
-We use GitHub Discussions to do so. You will be presented with a form during the creation process, feel free to [start a new discussion](/../../discussions/new) and we'll be happy to discuss it with you!
+We use GitHub Discussions to do so. Feel free to start a new discussion and we'll be happy to discuss it with you! Please take some time to check if there is already a discussion on the topic you want to talk about, and if so, feel free to join it!
 
 ## Reporting issues and bugs, requesting features
 
-We use GitHub Issues to do so. You will be presented with a form during the creation process, feel free to [open a new issue](/../../issues/new/choose) and we'll be happy to discuss it with you!
+We use GitHub Issues to do so. Feel free to open a new issue and we'll be happy to discuss it with you! You will be presented with a form during the creation process to fill in the details. Please take some time to check if there is already an issue on the topic you want to talk about, and if so, feel free to join it!
 
 ## Proposing changes to the codebase or documentation
 
 We use GitHub Pull Requests to do so. Here are the checks before submitting a Pull Request:
 
-- Continuous Integration pipelines are expected to pass (you can [run some of them locally](/README.md#running-the-project)!)
+- Continuous Integration pipelines are expected to pass. Please note that you can run some of them locally! Check the project's README for more information
 - Code changes are reasonable in size and scope (for bigger changes, consider splitting into multiple Pull Requests)
 - Tests for the changes have been added
 - Documentation and comments have been added/updated
 
-Feel free to [open a new pull request](/../../compare) and we'll be happy to review it with you!
+Feel free to open a new pull request and we'll be happy to review it with you!
 
 ## Considerations
 
-Any contributions you make will be under [the project's license](/LICENSE). In short, when you submit code changes, your submissions are understood to be under the same [license](/LICENSE) that covers the project. Feel free to [open a new issue](/../../issues/new/choose) to discuss any concerns you may have.
+Any contributions you make will be under the project's license. In short, when you submit code changes, your submissions are understood to be under the same license that covers the project. Feel free to open a new issue to discuss any concerns you may have.
