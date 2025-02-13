@@ -17,4 +17,3 @@ body:
       label: Date
       description: Date of the announced event
       render: markdown
-      placeholder: YYYY-MM-DD
