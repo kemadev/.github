@@ -3,8 +3,8 @@
 
 name: Feature Request
 description: A request for a new feature or an update to an existing feature
-labels: ["status/needs-triage", "type/feature"]
-title: "💡 "
+labels: ['status/needs-triage', 'type/feature']
+title: '💡 '
 # assignees: ["assignee1", "assignee2"]
 body:
   - type: markdown
@@ -16,8 +16,8 @@ body:
     attributes:
       label: "I agree to follow this project's contributing guidelines and code of conduct."
       options:
-        - "Yes"
-        - "No"
+        - 'Yes'
+        - 'No'
       default: 0
     validations:
       required: true
@@ -26,8 +26,8 @@ body:
     attributes:
       label: I have searched the issues of this repository and believe that this is not a duplicate.
       options:
-        - "Yes"
-        - "No"
+        - 'Yes'
+        - 'No'
       default: 0
     validations:
       required: true
