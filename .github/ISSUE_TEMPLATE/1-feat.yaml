@@ -10,7 +10,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to request a new feature! Before you submit this issue, please make sure you have read and agree to follow this project's [contributing guidelines](../blob/main/.github/CONTRIBUTING.md) and [code of conduct](../blob/main/.github/CODE_OF_CONDUCT.md).
+        Thanks for taking the time to request a new feature!
   - type: dropdown
     id: guidelines-acceptance
     attributes:

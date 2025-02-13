@@ -1,4 +1,3 @@
-
 # Contributing
 
 We're thrilled that you're considering contributing to our project! Your help is essential for keeping it great. Any contributor is welcome, no matter the level of experience. We are here to help you learn and grow!
