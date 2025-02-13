@@ -11,3 +11,11 @@ body:
       label: Summary
       description: What do you need help with?
       render: markdown
+  - type: textarea
+    id: additional-info
+    validations:
+      required: false
+    attributes:
+      label: Additional information
+      description: Any code snippets, error messages, or dependency details that may be related?
+      render: markdown
