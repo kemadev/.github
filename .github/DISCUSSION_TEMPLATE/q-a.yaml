@@ -10,7 +10,6 @@ body:
     attributes:
       label: Summary
       description: What do you need help with?
-      render: markdown
   - type: textarea
     id: additional-info
     validations:
