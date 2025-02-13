@@ -6,7 +6,7 @@ body:
     validations:
       required: true
     attributes:
-      label: '## Announce'
+      label: Announce
       description: Body of the announcement
       render: markdown
   - type: input
@@ -14,7 +14,7 @@ body:
     validations:
       required: false
     attributes:
-      label: '## Date'
+      label: Date
       description: Date of the announced event
       render: markdown
       placeholder: YYYY-MM-DD
