@@ -1,6 +1,6 @@
 # Inspired by https://github.com/vercel/next.js/blob/canary/.github/DISCUSSION_TEMPLATE/ideas.yml
 
-title: '💡 '
+title: ''
 labels: ['type/feature']
 body:
   - type: textarea

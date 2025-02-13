@@ -1,4 +1,4 @@
-title: '📣 '
+title: ''
 labels: ['type/announcement']
 body:
   - type: textarea
