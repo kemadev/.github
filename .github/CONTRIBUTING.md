@@ -22,6 +22,7 @@ We use GitHub Issues to do so. Feel free to open a new issue and we'll be happy 
 
 We use GitHub Pull Requests to do so. Here are the checks before submitting a Pull Request:
 
+- The changes target the correct branch. You should usually iterate on `dev`, and submit the PR to `next` where it will be reviewed and merged to `main` when ready
 - Continuous Integration pipelines are expected to pass. Please note that you can run some of them locally! Check the project's README for more information
 - Code changes are reasonable in size and scope (for bigger changes, consider splitting into multiple Pull Requests)
 - Tests for the changes have been added
