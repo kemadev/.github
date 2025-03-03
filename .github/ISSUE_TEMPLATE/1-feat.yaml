@@ -5,6 +5,7 @@ name: Feature Request
 description: A request for a new feature or an update to an existing feature
 labels: ['status/needs-triage', 'type/feature']
 title: '💡 '
+type: Feature
 # assignees: ["assignee1", "assignee2"]
 body:
   - type: markdown

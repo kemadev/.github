@@ -6,6 +6,7 @@ description: Report something that's not working correctly
 labels: ["status/needs-triage", "type/bug"]
 # assignees: ["assignee1", "assignee2"]
 title: "🐛 "
+type: Bug
 body:
   - type: markdown
     attributes:
