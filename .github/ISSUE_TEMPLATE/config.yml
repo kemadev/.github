@@ -2,5 +2,6 @@
 
 blank_issues_enabled: false
 contact_links:
-  - name: "GitHub Discussions"
-    url: "https://github.com/kemadev/discussions"
+  - name: GitHub Discussions
+    url: https://github.com/kemadev/discussions
+    about: Asking questions, proposing ideas and sharing your experience
