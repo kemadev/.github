@@ -63,6 +63,5 @@ body:
       options:
         - Housekeeping
         - Security
-      default: 0
     validations:
       required: false
