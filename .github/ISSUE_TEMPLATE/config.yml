@@ -1,5 +1,6 @@
 # Read more about `config.yml` [here](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#configuring-the-template-chooser)
-# Broadly inspired from https://github.com/JanDeDobbeleer/oh-my-posh/
 
 blank_issues_enabled: false
 contact_links:
+  - name: "GitHub Discussions"
+    url: "https://github.com/kemadev/discussions"

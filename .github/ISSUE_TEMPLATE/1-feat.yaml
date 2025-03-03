@@ -12,26 +12,26 @@ body:
     attributes:
       value: |
         Thanks for taking the time to request a new feature!
-  - type: dropdown
-    id: guidelines-acceptance
-    attributes:
-      label: "I agree to follow this project's contributing guidelines and code of conduct."
-      options:
-        - 'Yes'
-        - 'No'
-      default: 0
-    validations:
-      required: true
-  - type: dropdown
-    id: duplicate-check
-    attributes:
-      label: I have searched the issues of this repository and believe that this is not a duplicate.
-      options:
-        - 'Yes'
-        - 'No'
-      default: 0
-    validations:
-      required: true
+  # - type: dropdown
+  #   id: guidelines-acceptance
+  #   attributes:
+  #     label: "I agree to follow this project's contributing guidelines and code of conduct."
+  #     options:
+  #       - 'Yes'
+  #       - 'No'
+  #     default: 0
+  #   validations:
+  #     required: true
+  # - type: dropdown
+  #   id: duplicate-check
+  #   attributes:
+  #     label: I have searched the issues of this repository and believe that this is not a duplicate.
+  #     options:
+  #       - 'Yes'
+  #       - 'No'
+  #     default: 0
+  #   validations:
+  #     required: true
   - type: textarea
     id: feature-request
     attributes:
