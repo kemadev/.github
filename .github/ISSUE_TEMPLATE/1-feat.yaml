@@ -56,14 +56,3 @@ body:
       placeholder: Tell us about any workarounds you are using today.
     validations:
       required: false
-  - type: dropdown
-    id: issue-type
-    attributes:
-      label: Issue type adjustment
-      description: |
-        If this issue is not direclty related to a bug (and you did not find an appropriate template for it in the template chooser), please select the appropriate type. Maintainers, please update the Issue type accordingly!
-      options:
-        - Housekeeping
-        - Security
-    validations:
-      required: false
