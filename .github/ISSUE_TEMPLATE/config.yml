@@ -1,0 +1,7 @@
+# Read more about `config.yml` [here](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#configuring-the-template-chooser)
+
+blank_issues_enabled: false
+contact_links:
+  - name: Question, Idea or Experience
+    url: https://github.com/orgs/kemadev/discussions
+    about: Asking questions, proposing ideas and sharing your experience

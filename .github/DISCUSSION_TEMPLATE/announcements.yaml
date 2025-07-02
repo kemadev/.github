@@ -1,0 +1,18 @@
+# title: ''
+labels: ['type/announcement']
+body:
+  - type: textarea
+    id: announce
+    validations:
+      required: true
+    attributes:
+      label: Announce
+      description: Body of the announcement
+      render: markdown
+  - type: input
+    id: date
+    validations:
+      required: false
+    attributes:
+      label: Date
+      description: Date of the announced event

@@ -1,0 +1,37 @@
+# Inspired by https://github.com/vercel/next.js/blob/canary/.github/DISCUSSION_TEMPLATE/ideas.yml
+
+# title: ''
+labels: ['type/feature']
+body:
+  - type: textarea
+    id: goals
+    validations:
+      required: true
+    attributes:
+      label: Goals
+      description: Short list of what the feature request aims to address?
+      render: markdown
+  - type: textarea
+    id: non-goals
+    validations:
+      required: false
+    attributes:
+      label: Non-Goals
+      description: Short list of what the feature request _does not_ aim to address?
+      render: markdown
+  - type: textarea
+    id: background
+    validations:
+      required: true
+    attributes:
+      label: Background
+      description: Discuss prior art, why do you think this feature is needed? Are there current alternatives?
+      render: markdown
+  - type: textarea
+    id: proposal
+    validations:
+      required: false
+    attributes:
+      label: Proposal
+      description: How should this feature be implemented? Are you interested in contributing?
+      render: markdown

@@ -1,0 +1,28 @@
+# Inspired by https://github.com/vercel/next.js/blob/canary/.github/DISCUSSION_TEMPLATE/help.yml
+
+# title: ''
+labels: ['type/question', 'status/help-wanted']
+body:
+  - type: textarea
+    id: summary
+    validations:
+      required: true
+    attributes:
+      label: Summary
+      description: What do you need help with?
+      render: markdown
+  - type: textarea
+    id: additional-info
+    validations:
+      required: false
+    attributes:
+      label: Additional information
+      description: Any code snippets, error messages, or dependency details that may be related?
+      render: markdown
+  - type: input
+    id: example-link
+    validations:
+      required: false
+    attributes:
+      label: Example link
+      description: A link to a minimal example, helpful for collaborative debugging!
