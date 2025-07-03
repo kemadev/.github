@@ -10,4 +10,4 @@ Thank you for using our project! Here are some ways you can get support:
 
 ## Community Support
 
-- We use GitHub for bug tracking, feature requests, as well as for general questions and discussions. Please refer to the [contributing guide](CONTRIBUTING.md) for more information.
+- We use Issues for bug tracking, feature requests, as well as for general questions and discussions. Please refer to the [contributing guide](CONTRIBUTING.md) for more information.

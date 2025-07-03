@@ -8,7 +8,7 @@ We are committed to support the latest release, as well as the pre-release. You 
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability related to this project, please report it by opening a new Security Advisoriy on GitHub. We will review the reports as soon as possible and will discuss the best plan of action, including the disclosure of the vulnerability to the public.
+If you discover a security vulnerability related to this project, please report it by opening a new Security Advisoriy on GitHub (choose "Report a security vulnerability" when creating an Issue). We will review the reports as soon as possible and will discuss the best plan of action, including the disclosure of the vulnerability to the public.
 
 ## Responsible Disclosure
 

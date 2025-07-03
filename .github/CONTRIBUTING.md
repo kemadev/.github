@@ -4,11 +4,11 @@ We're thrilled that you're considering contributing to our project! Your help is
 
 ## Code of Conduct
 
-Please note that this project is released with a [Contributor Code of Conduct](/.github/CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
+Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
 ## Reporting a security concern
 
-If you believe you have found a security issue, please report it to us as soon as possible following our [security policy](/.github/SECURITY.md). Thank you for helping us keeping the project safe!
+If you believe you have found a security issue, please report it to us as soon as possible following our [security policy](SECURITY.md). Thank you for helping us keeping the project safe!
 
 ## Asking questions, proposing ideas and sharing your experience
 
@@ -16,11 +16,11 @@ We use GitHub Discussions to do so. Feel free to start a new discussion and we'l
 
 ## Reporting issues and bugs, requesting features
 
-We use GitHub Issues to do so. Feel free to open a new issue and we'll be happy to discuss it with you! You will be presented with a form during the creation process to fill in the details. Please take some time to check if there is already an issue on the topic you want to talk about, and if so, feel free to join it!
+We use Issues to do so. Feel free to open a new issue and we'll be happy to discuss it with you! Please take some time to check if there is already an issue on the topic you want to talk about, and if so, feel free to join it!
 
 ## Proposing changes to the codebase or documentation
 
-We use GitHub Pull Requests to do so. Here are the checks before submitting a Pull Request:
+We use Pull Requests to do so. Here are the checks before submitting a pull request:
 
 - The changes target the correct branch. You should usually iterate on `dev`, and submit the PR to `next` where it will be reviewed and merged to `main` when ready
 - Continuous Integration pipelines are expected to pass. Please note that you can run some of them locally! Check the project's README for more information
