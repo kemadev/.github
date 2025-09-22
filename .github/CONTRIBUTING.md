@@ -63,6 +63,7 @@ Feel free to open a new pull request and we'll be happy to review it with you!
 
 - [Docker](https://github.com/docker/cli) & [Docker Compose](https://github.com/docker/compose) to run applications in containers. You should configure your credentials store and credential helpers for Docker to work with your container registry
 - [Go](https://github.com/golang/go) to install applications dependencies as needed
+- [GitHub CLI](https://github.com/cli/cli) to manage git credentials
 
 ##### Running the project
 
