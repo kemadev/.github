@@ -84,12 +84,6 @@ Feel free to open a new pull request and we'll be happy to review it with you!
   kemutil ci [--fix] [--hot] ci
   ```
 
-- When using `--hot`, your need to export `GIT_TOKEN` environment variable to propagate your git credentials to the container, so that it can fetch private dependencies. This is typically done by running:
-
-  ```bash
-  export GIT_TOKEN=$(gh auth token)
-  ```
-
 - Other commands are available, feel free to run `kemutil help` to see the list of available commands and their usage
 
 ###### False positives
