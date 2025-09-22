@@ -106,4 +106,4 @@ Feel free to open a new pull request and we'll be happy to review it with you!
 
 ## Considerations
 
-Any contributions you make will be under the project's license. In short, when you submit code changes, your submissions are understood to be under the same license that covers the project. Feel free to open a new issue to discuss any concerns you may have.
+Any contributions you make will be under the project's license, available in the `License` section in the project's home page. In short, when you submit code changes, your submissions are understood to be under the same license that covers the project. Feel free to open a new issue to discuss any concerns you may have.
